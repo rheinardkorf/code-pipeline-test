@@ -1,0 +1,10 @@
+{
+  "name": "code-pipeline-test",
+  "public": false,
+  "repository": "git@github.com:rheinardkorf/code-pipeline-test.git",
+  "author": "Rheinard Korf <rheinard.korf@xwp.co>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}
